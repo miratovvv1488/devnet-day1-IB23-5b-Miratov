@@ -3,7 +3,7 @@
 ## 1. Student
 - Name: Miratov Mursalim
 - Group: IB-23-5b
-- GitHub repo: 
+- GitHub repo: https://github.com/miratovvv1488/devnet-day1-IB23-5b-Miratov.git
 - Day1 Token: D1-IB-23-5b-12-C19E
 
 ## 2. NetAcad progress (Module 1)
