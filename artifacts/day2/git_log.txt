@@ -1,0 +1,14 @@
+* 8c22f75 (HEAD -> main) Resolve README conflict (Day2)
+* 52b4f47 (feature/day2-readme-B) edit readme in branch B
+* cd510a8 (feature/day2-readme-A) edit readme in branch A
+| * 6a4b096 (origin/feature/day2-dataformats, feature/day2-dataformats) feat: add data formats generator and schemas
+|/  
+* e53db52 (origin/main) feat: add pip freeze output
+* 407537a docs: update README
+* 7f0896b init: all day1 files
+* be03942 feat: all day 1 files
+* 65febf8 feat: add generated artifacts (response, summary, log)
+* b7bec7e feat: add unit tests
+* 13e81a9 feat: add day1 API script and JSON schema
+* 58a9f99 feat: add VM environment info
+* 4ab56af init: project structure and config files
