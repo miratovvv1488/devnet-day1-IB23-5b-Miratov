@@ -1,0 +1,8 @@
+{
+  "apihost": "http://library.demo.local",
+  "generated_utc": "2026-03-19T16:18:35.877013+00:00",
+  "who": {
+    "group": "IB-23-5b",
+    "name": "Miratov"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "artifacts_sha256": {
+    "add100_report": "a2958625371c9ba121dba6b261570d866b96a07f565866a7e4aa6efa6859dda3",
+    "books_before": "e9d34fda886ea13e48f880ed70831f5548107833a76bb9f8888b88bb5c979458",
+    "books_by_me": "e194a4a4f973704b8e3287bc7047f76000f5dabc7b63aa56e7b958437ba565b8",
+    "books_sorted_isbn": "93934547f1e3d0d592639533661497ca2eb6a8b60073b0bfd7fecc086edf0d6b",
+    "curl_get_books": "de64bae22fde03848fbeb14e2a6c661cf7e9eed12f29b574d596224bf5bf6bf9",
+    "curl_get_books_isbn": "ee1093008a5d89a75d9aaf8a2c8a7987c8841bce0c4028d02d32e78f083fb227",
+    "curl_get_books_sorted": "6e87e9da9e47b139ee6633b979ddefac161bd7ee3006a66118067b2b866bcef5",
+    "mybook_post": "02b061f338be5293c35ad1fb7832b73e8dfac195dc8354bfec37a1a8923471af",
+    "postman_collection": "aeb060d9ed7054c93d28cccc3b96a72524720567c486f779fe42c690695f8b4c",
+    "postman_environment": "9afe2601a9e882a85918238d5f7921be86ba955a6d99969f3ae7aedcda99079b"
+  },
+  "generated_utc": "2026-03-19T16:19:24.810817+00:00",
+  "lab": {
+    "apihost": "http://library.demo.local",
+    "must_use": {
+      "api_key_header": "X-API-KEY",
+      "books_endpoint": "http://library.demo.local/api/v1/books",
+      "login_endpoint": "http://library.demo.local/api/v1/loginViaBasic"
+    }
+  },
+  "schema_version": "3.1",
+  "student": {
+    "group": "IB-23-5b",
+    "name": "Miratov",
+    "token": "D1-IB-23-5b-12-C19E",
+    "token_hash8": "a9d7ab0f"
+  },
+  "validation": {
+    "must_have_added_100": true,
+    "must_have_mybook_title_contains_token_hash8": true
+  }
+}

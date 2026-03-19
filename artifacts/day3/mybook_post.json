@@ -1,0 +1,15 @@
+{
+  "api_key_sha256": "e695a3e5529b2063d7cc71edfe5c87c2b05d8745c7a1f61915dd11c00d090adc",
+  "request": {
+    "author": "Miratov",
+    "id": 5012,
+    "isbn": "978-12a9d7ab0f",
+    "title": "My DevNet Book a9d7ab0f"
+  },
+  "response": {
+    "author": "Miratov",
+    "id": 5012,
+    "title": "My DevNet Book a9d7ab0f"
+  },
+  "status_code": 200
+}

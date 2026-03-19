@@ -1,0 +1,42 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "author": "Miratov",
+      "id": 5012,
+      "isbn": "978-12a9d7ab0f",
+      "title": "My DevNet Book a9d7ab0f"
+    },
+    {
+      "author": "Miratov",
+      "id": 8400,
+      "isbn": "978-0-11-623898-6",
+      "title": "Expanded secondary Internet solution [a9d7ab0f]"
+    },
+    {
+      "author": "Miratov",
+      "id": 8401,
+      "isbn": "978-0-508-65928-3",
+      "title": "Optional regional budgetary management [a9d7ab0f]"
+    },
+    {
+      "author": "Miratov",
+      "id": 8402,
+      "isbn": "978-1-82233-849-6",
+      "title": "Operative mission-critical function [a9d7ab0f]"
+    },
+    {
+      "author": "Miratov",
+      "id": 8403,
+      "isbn": "978-1-143-22072-2",
+      "title": "Robust upward-trending emulation [a9d7ab0f]"
+    },
+    {
+      "author": "Miratov",
+      "id": 8404,
+      "isbn": "978-1-60438-565-6",
+      "title": "Seamless 24hour firmware [a9d7ab0f]"
+    }
+  ],
+  "status_code": 200
+}
