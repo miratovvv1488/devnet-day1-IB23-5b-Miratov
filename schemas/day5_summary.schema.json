@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["schema_version", "generated_utc", "student", "yang", "webex", "pt", "validation_passed", "run"],
+  "properties": {
+    "schema_version": {"type": "string", "const": "5.0"},
+    "generated_utc": {"type": "string"},
+    "student": {
+      "type": "object",
+      "required": ["token", "token_hash8", "name", "group"],
+      "properties": {
+        "token": {"type": "string"},
+        "token_hash8": {"type": "string", "pattern": "^[a-f0-9]{8}$"},
+        "name": {"type": "string"},
+        "group": {"type": "string"}
+      }
+    },
+    "yang": {"type": "object", "required": ["ok", "evidence_sha"]},
+    "webex": {"type": "object", "required": ["ok", "room_title_contains_hash8", "evidence_sha"]},
+    "pt": {"type": "object", "required": ["ok", "empty_ticket_seen", "evidence_sha"]},
+    "validation_passed": {"type": "boolean"},
+    "run": {"type": "object", "required": ["python", "platform"]}
+  }
+}

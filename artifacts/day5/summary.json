@@ -1,0 +1,29 @@
+{
+  "generated_utc": "2026-03-20T16:46:27.168799+00:00",
+  "pt": {
+    "empty_ticket_seen": true,
+    "evidence_sha": "b9f52953f020e9076d34512e8323e2394c687f52ea9f7659e1b04807d2b181a7",
+    "ok": true
+  },
+  "run": {
+    "platform": "linux",
+    "python": "3.8.2"
+  },
+  "schema_version": "5.0",
+  "student": {
+    "group": "IB-23-5b",
+    "name": "Miratov",
+    "token": "D1-IB-23-5b-12-C19E",
+    "token_hash8": "a9d7ab0f"
+  },
+  "validation_passed": true,
+  "webex": {
+    "evidence_sha": "0480d6b52987b70fea39ce42eb162e9856116e6f03cfd3fddc7e09e2fbae5584",
+    "ok": true,
+    "room_title_contains_hash8": true
+  },
+  "yang": {
+    "evidence_sha": "949de5d3ee156508fe0af9f6a93bb6b16cf3e397ba9f6ba226e1c50bb5256edb",
+    "ok": true
+  }
+}
