@@ -1,0 +1,11 @@
+Started by user Mursalim
+[Pipeline] Start of Pipeline
+[Pipeline] node
+[Pipeline] { (Test)
+[Pipeline] sh
++ echo Running tests...
+Running tests...
++ echo All tests passed!
+All tests passed!
+[Pipeline] End of Pipeline
+Finished: SUCCESS

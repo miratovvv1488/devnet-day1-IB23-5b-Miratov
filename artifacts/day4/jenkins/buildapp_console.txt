@@ -1,0 +1,22 @@
+Started by user Mursalim
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/jenkins_home/workspace/BuildAppJob@2
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Build)
+[Pipeline] sh
++ echo Building app...
+Building app...
+[Pipeline] sh
++ echo Student: Miratov Mursalim
+Student: Miratov Mursalim
+[Pipeline] sh
++ echo TOKEN_HASH8=a9d7ab0f
+TOKEN_HASH8=a9d7ab0f
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS

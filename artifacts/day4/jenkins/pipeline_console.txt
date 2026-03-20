@@ -1,0 +1,18 @@
+Started by user Mursalim
+[Pipeline] Start of Pipeline
+[Pipeline] stage
+[Pipeline] { (Preparation)
+[Pipeline] sh
++ echo Preparation stage
+[Pipeline] }
+[Pipeline] stage
+[Pipeline] { (Build)
+[Pipeline] sh
++ echo Build stage
+[Pipeline] }
+[Pipeline] stage
+[Pipeline] { (Results)
+[Pipeline] sh
++ echo Results stage
+[Pipeline] End of Pipeline
+Finished: SUCCESS
