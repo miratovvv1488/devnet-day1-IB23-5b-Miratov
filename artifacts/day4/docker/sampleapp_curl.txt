@@ -1,0 +1,6 @@
+<html><body>
+<h1>Sample Web App</h1>
+<p>Student: Miratov Mursalim</p>
+<p>Group: IB-23-5b</p>
+<p>TOKEN_HASH8=a9d7ab0f</p>
+</body></html>
